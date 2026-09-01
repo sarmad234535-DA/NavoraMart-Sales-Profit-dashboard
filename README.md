@@ -4,10 +4,7 @@
 
 Watch the interactive dashboard walkthrough below:
 
-[▶️ Watch Dashboard Demo]
-<video src="https://github.com/sarmad234535-DA/NavoraMart-Sales-Profit-dashboard/raw/refs/heads/main/dashboard/navoramart_dashboard_demo.mp4" controls></video>
-
----
+https://github.com/user-attachments/assets/13fa5ddd-f29b-4dfe-96f0-8e1547443af8
 
 ## 📌 Project Overview
 
